@@ -1,19 +1,8 @@
-# koffin_tracking
 
-A new Flutter project.
+## Usage
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+```clone this repo: " git clone https://github.com/Khaledxab/koofin_tracker.git " 
+run  : " flutter pub get " to install all app packages.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# koofin_tracker" 
-"# koofintracker" 
-"# koofin_tracker" 
+```
